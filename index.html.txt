@@ -1,14 +1,10 @@
-#   
-<!DOCTYPE html>  
-<html lang="es">  
-<head>  
-  <meta charset="UTF-8">  
+
   <title>Encuesta San Valentín</title>  
   <style>  
     body {  
       font-family: Arial, sans-serif;  
       text-align: center;  
-      background-color: #ffe6f0;  
+      background-color: #0f0be9;  
       margin: 0;  
       padding: 0;  
     }  
@@ -32,7 +28,7 @@
       transition: all 0.3s ease;  
     }  
     #noBtn {  
-      background-color: #999;  
+      background-color: #05cbe6;  
       color: white;  
     }  
     #finalMessage {  
